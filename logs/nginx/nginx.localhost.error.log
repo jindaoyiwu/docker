@@ -1,0 +1,1 @@
+2020/11/04 16:06:38 [warn] 7#7: *48 an upstream response is buffered to a temporary file /usr/local/openresty/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.10.1.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.10.1.72:9000", host: "localhost"
